@@ -1,5 +1,19 @@
 # account-manager
-Simple Laravel Acount manager
+Simple Laravel Account manager
+
+# Uses: 
+- to keep track of your expanse and income
+- Exports reports of your all transections daily, weekly, bi-weekly, monthly and yearly
+- Keep track of your bank account transections
+- give flexibility to update data from anywhere over internet
+
+# Modules: 
+- Bank accounts
+- Transections
+- ledger
+
+***** Lots of facility will be added under requests *****
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
