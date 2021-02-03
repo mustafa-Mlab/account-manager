@@ -1,0 +1,95 @@
+/* Common Components */
+body {
+  font-family: 'Nunito';
+}
+
+.text-right{
+  text-align: right;
+}
+.mb-65{
+  margin-bottom: 65px;
+}
+.mt-65{
+  margin-top: 65px;
+}
+
+/* Comon components Ends */
+
+
+/* Header Section */
+header{
+  width: 100%;
+  position: relative;
+  display: block;
+  border-bottom: 2px solid;
+}
+
+header .logo-wrapper {
+  width: 35%;
+  display: inline-block;
+  padding: 20px 10px;
+  max-width: 34%;
+  text-align: left;
+  font-size: 40px;
+  color: green;
+  line-height: 100px;
+  font-weight: bolder;
+}
+
+header ul.main-menu {
+  width: 65%;
+  padding-left: 50px;
+  padding-right: 10px;
+  display: inline-block;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+ul.main-menu li.menu-item {
+  /* height: 100px; */
+  /* width: auto; */
+  /* padding: 20px; */
+  /* line-height: 100px; */
+  display: inline-block;
+}
+ul.main-menu li.menu-item > a.menu-link {
+  padding: 0px 10px;
+  line-height: 100px;
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+}
+
+ul.main-menu li.menu-item.parent-item > ul.sub-menu {
+  display: none;
+}
+
+/* Header Ends */
+
+/* Page items */
+.main-wrap {
+  padding-top: 65px;
+  padding-bottom: 100px;
+}
+/* Page items Ends */
+
+/* Footer Section */
+footer {
+  background: green;
+  color: white;
+  padding-top: 65px;
+  padding-bottom: 65px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+section.footer-top {
+  padding-bottom: 35px;
+  border-bottom: 2px solid;
+  margin-bottom: 35px;
+}
+
+/* Footer Ends */
